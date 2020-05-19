@@ -1,0 +1,23 @@
+.searchContainer{
+    text-align:center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body{
+  background-image: url("backdrop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainsearch{
+
+    font-size:150%;
+    font-family: 'Cabin', sans-serif;
+    border: 4px solid #3dc2d4;
+    border-radius: 4px;
+    padding:10px;
+    width: 40%;
+}
