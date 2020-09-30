@@ -1,5 +1,6 @@
 {
     "name": "EverySearch",
+	  "options_page": "options.html",
     "version": "1.0",
     "description": "Search Anywhere",
     "manifest_version": 2,
@@ -11,10 +12,6 @@
         "128": "icon.png"
       } 
 },
-    "permissions": [
-        "storage"
-    ],
-"options_page": "options.html",
      "chrome_url_overrides" : {
     "newtab": "searchhome.html"
   }
